@@ -4,8 +4,8 @@
 </p>
 <h3 align="center">Virtual Try-On System<br><br>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ISL270/Virtual-Try-On-Network">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ISL270/Virtual-Try-On-Network">
-<img src="https://visitor-badge.glitch.me/badge?page_id=ISL270.Virtual-Try-On-Network&right_color=red&left_text=visitors" /></h3>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/isl270/Virtual-Try-On-Network">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ISL270.Virtual-Try-On-Network&right_color=red&left_text=visitors" /></h3>
 
 ## About
 Virtual Try-On network implementing conditional generative adversarial networks (Pix2Pix architecture).
