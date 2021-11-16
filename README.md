@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ISL270.Virtual-Try-On-Network&right_color=red&left_text=visitors" /></h3>
 
 ## About
-Virtual Try-On network implementing conditional generative adversarial networks (Pix2Pix architecture).
+A Virtual Try-On network that uses conditional generative adversarial networks (Pix2Pix architecture) to generate a photo-realistic image of the desired product seamlessly overlayed onto the body of targeted person.
 
 `tryON` extension is IPYNB, it can be opened by jupyter Notebook or google Colab.
 
