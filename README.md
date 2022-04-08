@@ -12,7 +12,7 @@ A Virtual Try-On network that uses conditional generative adversarial networks (
 
 `tryON` extension is IPYNB, it can be opened by jupyter Notebook or google Colab.
 
-`ckpt-100.index` is the saved trained model.
+`ckpt-100.index` is the saved trained model. 
 
 Colab Notenook: https://colab.research.google.com/drive/1O3a64gKd_E1k-abpqyEbmtf9ASV5BdTS?usp=sharing
 
